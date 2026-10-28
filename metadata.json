@@ -1,0 +1,6 @@
+{
+  "name": "Marcenaria Móveis Planejados",
+  "description": "Landing Page profissional e de alta conversão para marcenaria especializada em móveis planejados e sob medida de alto padrão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
